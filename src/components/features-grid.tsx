@@ -29,7 +29,7 @@ const features = [
         title: "Centralised Lead Log",
         description: "Track every interaction in a simple dashboard.",
         icon: Database,
-        size: "small",
+        size: "large",
         color: "text-green-500"
     },
     {
