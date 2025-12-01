@@ -40,7 +40,7 @@ export function HeroSection() {
                     <div className="flex flex-wrap items-center gap-4 pt-4">
                         <Link href="#contact">
                             <GlowingButton className="px-8 py-6 text-base font-semibold">
-                                Book a Free 15-Min Demo
+                                Book a Free 15 Min Demo
                             </GlowingButton>
                         </Link>
                         <Link href="#pricing">
